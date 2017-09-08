@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Program</key>
+	<string>/Users/masterfly/Desktop/Shell/whologges.sh</string>
+	<key>StartCalendarInterval</key>
+	<dict>
+		<key>Minute</key>
+		<integer>0</integer>
+		<key>Weekday</key>
+		<integer>5</integer>
+		<key>Hour</key>
+		<integer>15</integer>
+	</dict>
+	<key>ProgramArguments</key>
+	<array>
+		<string>/Users/masterfly/Desktop/Shell/whologges.sh</string>
+	</array>
+	<key>Label</key>
+	<string>com.email.tip.plist</string>
+</dict>
+</plist>
